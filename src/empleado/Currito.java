@@ -12,5 +12,7 @@ public class Currito extends Empleado {
         this.nombreJefe = nombreJefe;
     }
 
+    /*asdfasfasdfasdfasdfasd*/
+
 
 }
