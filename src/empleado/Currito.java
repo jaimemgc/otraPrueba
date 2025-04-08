@@ -13,6 +13,10 @@ public class Currito extends Empleado {
     }
 
     /*asdfasfasdfasdfasdfasd*/
+    /*asdfasfasdfasdfasdfasd*/
+    /*asdfasfasdfasdfasdfasd*/
+    /*asdfasfasdfasdfasdfasd*/
+
 
 
 }
